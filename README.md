@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5fe3da&height=250&text=JeongHyeon%20Yu&desc=ANDROID%20DEVELOPER&descSize=20&descAlignY=75&animation=fadeIn&fontColor=000000&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5fe3da&height=250&text=JeongHyeon%20Yu&desc=Junior%20Android%20Developer&descSize=20&descAlignY=75&animation=fadeIn&fontColor=000000&fontSize=70" />
 </div>
 
 
 ## 🚀 Android Developer | Keep Growing Every Day  
 
 ### 👋 About Me
-**매일 조금씩이라도 성장하여 최고의 안드로이드 개발자**가 될 유정현입니다!
+**매일 조금씩이라도 성장하여 최고의 안드로이드 개발자**가 될 유정현입니다.
 
-유지보수가 쉬운 클린 아키텍처를 적용하고, 확장 가능한 모듈 설계를 고민하며 더 나은 코드를 만듭니다.
+유지보수가 쉬운 클린 아키텍처를 적용하고, 확장 가능한 모듈 설계를 고민합니다.
 
 새로운 기술도 적극적으로 배우고 적용하며, 변화에 능동적으로 적응하는 개발자가 되고자합니다.
 
@@ -16,12 +16,14 @@
 
 ## 🛠️ Tech Stacks  
 **Languages & Frameworks**  
+
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
 **Android & Tools**  
+
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white)
 ![Hilt](https://img.shields.io/badge/Hilt-007ACC?style=for-the-badge&logo=Hilt&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-6DB33F?style=for-the-badge&logo=Room&logoColor=white)
@@ -35,6 +37,7 @@
 ![WorkManager](https://img.shields.io/badge/WorkManager-512DA8?style=for-the-badge&logo=Android&logoColor=white)
 
 **Tools & Platforms**  
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)
