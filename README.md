@@ -35,6 +35,7 @@
 ![Navigation Component](https://img.shields.io/badge/Navigation-00897B?style=for-the-badge&logo=Android&logoColor=white)
 ![Data Binding](https://img.shields.io/badge/DataBinding-FF7043?style=for-the-badge&logo=Android&logoColor=white)
 ![WorkManager](https://img.shields.io/badge/WorkManager-512DA8?style=for-the-badge&logo=Android&logoColor=white)
+etc.
 
 **Tools & Platforms**  
 
